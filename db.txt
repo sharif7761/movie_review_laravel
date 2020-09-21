@@ -1,0 +1,5 @@
+akaarit-sharif
+
+user: akaaritx_akaarit-sharif
+pass ; akaarit-sharif
+db: akaaritx_akaar-it
